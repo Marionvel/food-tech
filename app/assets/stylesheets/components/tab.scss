@@ -1,0 +1,50 @@
+.page2-background {
+    width: 100%;
+    height: 100.5vh;
+    background-color: #3b0944;
+}
+.page2-items {
+    height: 50%;
+    width: 40%;
+    padding-left: 400px;
+    padding-top: 70px;
+    padding-bottom: 60px;
+}
+
+.page2-tabs{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+    border: solid;
+    border-color: white;
+    border-radius: 16px;
+
+}
+
+.tab-selector {
+    height: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0px 15px;
+    cursor: pointer;
+}
+
+.tab-selector:hover {
+   background-color: white;
+   color: #3b0944;
+}
+
+
+.page2-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 13px;
+    padding-left: 15px;
+    padding-right: 10px;
+}
+
