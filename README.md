@@ -1,24 +1,11 @@
-# README
+# Salad Party
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Comment accéder au programme sur Heroku ?
+Lien -> [Salade Party](https://foodtechthp.herokuapp.com/)<br />
 
-Things you may want to cover:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Comment accéder au programme en local ?
+1. Se positionner sur le dossier avec le terminal
+2. Lancer $ bundle install
+3. Lancer $ rails server
+4. Se rendre sur localhost:3000 avec un navigateur
